@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cus-01",
+    "name": "রফিকুল ইসলাম",
+    "phone": "01711234567",
+    "district": "ঢাকা",
+    "address": "বাসা ১২, রোড ৫, ধানমন্ডি, ঢাকা",
+    "flagged": false,
+    "orderCount": 2,
+    "totalSpent": 2782,
+    "createdAt": "2026-07-19T05:00:00.000Z",
+    "lastOrderAt": "2026-11-19T04:00:00.000Z"
+  },
+  {
+    "id": "cus-02",
+    "name": "সুমাইয়া আক্তার",
+    "phone": "01822334455",
+    "district": "চট্টগ্রাম",
+    "address": "৪৫/বি, আগ্রাবাদ, চট্টগ্রাম",
+    "flagged": false,
+    "orderCount": 2,
+    "totalSpent": 2971,
+    "createdAt": "2026-07-16T05:00:00.000Z",
+    "lastOrderAt": "2026-11-19T05:07:00.000Z"
+  },
+  {
+    "id": "cus-03",
+    "name": "মাহবুব হাসান",
+    "phone": "01933445566",
+    "district": "খুলনা",
+    "address": "বাসা ৭, সড়ক ২, সোনাডাঙ্গা, খুলনা",
+    "flagged": false,
+    "orderCount": 2,
+    "totalSpent": 2413,
+    "createdAt": "2026-07-13T05:00:00.000Z",
+    "lastOrderAt": "2026-11-18T06:14:00.000Z"
+  },
+  {
+    "id": "cus-04",
+    "name": "নাসরিন সুলতানা",
+    "phone": "01644556677",
+    "district": "রাজশাহী",
+    "address": "৩৩, শাহ মখদুম, রাজশাহী",
+    "flagged": false,
+    "orderCount": 2,
+    "totalSpent": 3217,
+    "createdAt": "2026-07-10T05:00:00.000Z",
+    "lastOrderAt": "2026-11-18T07:21:00.000Z"
+  },
+  {
+    "id": "cus-05",
+    "name": "আব্দুল করিম",
+    "phone": "01555667788",
+    "district": "সিলেট",
+    "address": "১২, জিন্দাবাজার, সিলেট",
+    "flagged": true,
+    "orderCount": 2,
+    "totalSpent": 960,
+    "createdAt": "2026-07-07T05:00:00.000Z",
+    "lastOrderAt": "2026-11-17T08:28:00.000Z"
+  },
+  {
+    "id": "cus-06",
+    "name": "ফারহানা ইয়াসমিন",
+    "phone": "01766778899",
+    "district": "বরিশাল",
+    "address": "বাসা ৯, বান্দ রোড, বরিশাল",
+    "flagged": false,
+    "orderCount": 2,
+    "totalSpent": 2500,
+    "createdAt": "2026-07-04T05:00:00.000Z",
+    "lastOrderAt": "2026-11-17T09:35:00.000Z"
+  },
+  {
+    "id": "cus-07",
+    "name": "শাহীন আলম",
+    "phone": "01877889900",
+    "district": "রংপুর",
+    "address": "২১, ধাপ, রংপুর",
+    "flagged": false,
+    "orderCount": 2,
+    "totalSpent": 1320,
+    "createdAt": "2026-07-01T05:00:00.000Z",
+    "lastOrderAt": "2026-11-16T10:42:00.000Z"
+  },
+  {
+    "id": "cus-08",
+    "name": "তাসনিম জাহান",
+    "phone": "01988990011",
+    "district": "ময়মনসিংহ",
+    "address": "৫, চরপাড়া, ময়মনসিংহ",
+    "flagged": false,
+    "orderCount": 2,
+    "totalSpent": 2725,
+    "createdAt": "2026-06-28T05:00:00.000Z",
+    "lastOrderAt": "2026-11-16T11:49:00.000Z"
+  },
+  {
+    "id": "cus-09",
+    "name": "জাহিদুল ইসলাম",
+    "phone": "01699001122",
+    "district": "কুমিল্লা",
+    "address": "৭৮, কান্দিরপাড়, কুমিল্লা",
+    "flagged": true,
+    "orderCount": 2,
+    "totalSpent": 1020,
+    "createdAt": "2026-06-25T05:00:00.000Z",
+    "lastOrderAt": "2026-11-15T04:56:00.000Z"
+  },
+  {
+    "id": "cus-10",
+    "name": "রুবিনা পারভীন",
+    "phone": "01500112233",
+    "district": "নারায়ণগঞ্জ",
+    "address": "বাসা ১৪, চাষাঢ়া, নারায়ণগঞ্জ",
+    "flagged": false,
+    "orderCount": 2,
+    "totalSpent": 2450,
+    "createdAt": "2026-06-22T05:00:00.000Z",
+    "lastOrderAt": "2026-11-14T05:03:00.000Z"
+  }
+]

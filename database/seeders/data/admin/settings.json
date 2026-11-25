@@ -1,0 +1,11 @@
+{
+  "storeName": "Sonali Foshol Organics",
+  "storeNameBn": "সোনালী ফসল অর্গানিকস",
+  "whatsappNumber": "01712345678",
+  "facebookUrl": "https://facebook.com/sonalifoshol",
+  "messengerUrl": "https://m.me/sonalifoshol",
+  "deliveryFeeInside": 60,
+  "deliveryFeeOutside": 120,
+  "freeShippingThreshold": 2000,
+  "lowStockThreshold": 10
+}

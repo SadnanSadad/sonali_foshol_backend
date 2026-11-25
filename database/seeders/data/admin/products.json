@@ -1,0 +1,842 @@
+[
+  {
+    "id": "prd-001",
+    "slug": "miniket-rice",
+    "nameBn": "মিনিকেট চাল",
+    "nameEn": "Miniket Rice",
+    "category": "rice",
+    "originBn": "নাটোর",
+    "image": "/images/products/miniket-rice.svg",
+    "images": [
+      "/images/products/miniket-rice.svg"
+    ],
+    "badgeBn": "সেরা বিক্রিত",
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "প্রতিদিনের রান্নার জন্য ঝরঝরে ও সুগন্ধি মিনিকেট চাল।",
+    "fullDescBn": "নাটোরের উর্বর মাটিতে চাষ করা মিনিকেট চাল। কেমিক্যালমুক্ত প্রক্রিয়ায় ছাঁটা, রান্নার পর ঝরঝরে ও সুস্বাদু।",
+    "nutritionHighlights": [
+      "কার্বোহাইড্রেট সমৃদ্ধ",
+      "কম চর্বি",
+      "গ্লুটেন-মুক্ত"
+    ],
+    "weights": [
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 89,
+        "mrp": 95,
+        "stock": 120,
+        "sku": "MINIKETRICE-1000"
+      },
+      {
+        "label": "৫ কেজি",
+        "grams": 5000,
+        "price": 430,
+        "mrp": 460,
+        "stock": 40,
+        "sku": "MINIKETRICE-5000"
+      },
+      {
+        "label": "১০ কেজি",
+        "grams": 10000,
+        "price": 850,
+        "mrp": 900,
+        "stock": 18,
+        "sku": "MINIKETRICE-10000"
+      }
+    ],
+    "createdAt": "2026-08-15T03:15:00.000Z",
+    "updatedAt": "2026-08-29T10:40:00.000Z"
+  },
+  {
+    "id": "prd-002",
+    "slug": "basmati-rice",
+    "nameBn": "বাসমতী চাল",
+    "nameEn": "Basmati Rice",
+    "category": "rice",
+    "originBn": "দিনাজপুর",
+    "image": "/images/products/basmati-rice.svg",
+    "images": [
+      "/images/products/basmati-rice.svg"
+    ],
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "পোলাও ও বিরিয়ানির জন্য দীর্ঘ দানার সুগন্ধি বাসমতী চাল।",
+    "fullDescBn": "দিনাজপুরের বাসমতী চাল, লম্বা দানা ও প্রাকৃতিক সুগন্ধ। অনুষ্ঠান ও উৎসবের রান্নায় পারফেক্ট।",
+    "nutritionHighlights": [
+      "দীর্ঘ দানা",
+      "সুগন্ধি",
+      "কম স্টার্চ"
+    ],
+    "weights": [
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 145,
+        "mrp": 160,
+        "stock": 60,
+        "sku": "BASMATIRICE-1000"
+      },
+      {
+        "label": "৫ কেজি",
+        "grams": 5000,
+        "price": 710,
+        "mrp": 760,
+        "stock": 22,
+        "sku": "BASMATIRICE-5000"
+      }
+    ],
+    "createdAt": "2026-08-19T03:15:00.000Z",
+    "updatedAt": "2026-09-02T10:40:00.000Z"
+  },
+  {
+    "id": "prd-003",
+    "slug": "polao-rice",
+    "nameBn": "পোলাও চাল",
+    "nameEn": "Polao Rice",
+    "category": "rice",
+    "originBn": "নওগাঁ",
+    "image": "/images/products/polao-rice.svg",
+    "images": [
+      "/images/products/polao-rice.svg"
+    ],
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "নরম ও সুগন্ধি পোলাও চাল, উৎসবের রান্নার সঙ্গী।",
+    "fullDescBn": "নওগাঁ অঞ্চলের পোলাও চাল। হালকা সুগন্ধ ও নরম টেক্সচার, পোলাও ও খিচুড়ির জন্য আদর্শ।",
+    "nutritionHighlights": [
+      "নরম টেক্সচার",
+      "প্রাকৃতিক সুগন্ধ"
+    ],
+    "weights": [
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 120,
+        "mrp": 135,
+        "stock": 48,
+        "sku": "POLAORICE-1000"
+      },
+      {
+        "label": "৫ কেজি",
+        "grams": 5000,
+        "price": 590,
+        "mrp": 650,
+        "stock": 15,
+        "sku": "POLAORICE-5000"
+      }
+    ],
+    "createdAt": "2026-08-23T03:15:00.000Z",
+    "updatedAt": "2026-09-06T10:40:00.000Z"
+  },
+  {
+    "id": "prd-004",
+    "slug": "kataribhog-rice",
+    "nameBn": "কাটারিভোগ চাল",
+    "nameEn": "Kataribhog Rice",
+    "category": "rice",
+    "originBn": "দিনাজপুর",
+    "image": "/images/products/kataribhog-rice.svg",
+    "images": [
+      "/images/products/kataribhog-rice.svg"
+    ],
+    "badgeBn": "ঐতিহ্যবাহী",
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "ঐতিহ্যবাহী সুগন্ধি কাটারিভোগ চাল, পায়েসের জন্য সেরা।",
+    "fullDescBn": "দিনাজপুরের ঐতিহ্যবাহী কাটারিভোগ চাল। ছোট দানা ও গভীর সুগন্ধ, পায়েস ও বিশেষ রান্নায় অনবদ্য।",
+    "nutritionHighlights": [
+      "গভীর সুগন্ধ",
+      "ঐতিহ্যবাহী জাত"
+    ],
+    "weights": [
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 135,
+        "mrp": 150,
+        "stock": 34,
+        "sku": "KATARIBHOGRICE-1000"
+      },
+      {
+        "label": "৫ কেজি",
+        "grams": 5000,
+        "price": 660,
+        "mrp": 720,
+        "stock": 9,
+        "sku": "KATARIBHOGRICE-5000"
+      }
+    ],
+    "createdAt": "2026-08-27T03:15:00.000Z",
+    "updatedAt": "2026-09-10T10:40:00.000Z"
+  },
+  {
+    "id": "prd-005",
+    "slug": "brown-rice",
+    "nameBn": "ব্রাউন রাইস",
+    "nameEn": "Brown Rice",
+    "category": "rice",
+    "originBn": "নাটোর",
+    "image": "/images/products/brown-rice.svg",
+    "images": [
+      "/images/products/brown-rice.svg"
+    ],
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "ফাইবার সমৃদ্ধ খোসাসহ ব্রাউন রাইস, স্বাস্থ্যকর বিকল্প।",
+    "fullDescBn": "নাটোরের ব্রাউন রাইস, ভুসি保留 করে প্রক্রিয়াজাত। উচ্চ ফাইবার ও ধীরে হজমযোগ্য কার্বোহাইড্রেট।",
+    "nutritionHighlights": [
+      "উচ্চ ফাইবার",
+      "হোল গ্রেইন",
+      "লো গ্লাইসেমিক"
+    ],
+    "weights": [
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 110,
+        "mrp": 125,
+        "stock": 26,
+        "sku": "BROWNRICE-1000"
+      },
+      {
+        "label": "৫ কেজি",
+        "grams": 5000,
+        "price": 540,
+        "mrp": 600,
+        "stock": 8,
+        "sku": "BROWNRICE-5000"
+      }
+    ],
+    "createdAt": "2026-08-31T03:15:00.000Z",
+    "updatedAt": "2026-09-14T10:40:00.000Z"
+  },
+  {
+    "id": "prd-006",
+    "slug": "chinigura-rice",
+    "nameBn": "চিনিগুড়া চাল",
+    "nameEn": "Chinigura Rice",
+    "category": "rice",
+    "originBn": "নওগাঁ",
+    "image": "/images/products/chinigura-rice.svg",
+    "images": [
+      "/images/products/chinigura-rice.svg"
+    ],
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "পায়েস ও ফিরনি বানানোর জন্য ছোট দানার চিনিগুড়া চাল।",
+    "fullDescBn": "নওগাঁর চিনিগুড়া চাল, ছোট সুগন্ধি দানা। পায়েস, ফিরনি ও মিষ্টান্নে দুর্দান্ত।",
+    "nutritionHighlights": [
+      "ছোট দানা",
+      "সুগন্ধি"
+    ],
+    "weights": [
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 130,
+        "mrp": 145,
+        "stock": 30,
+        "sku": "CHINIGURARICE-1000"
+      },
+      {
+        "label": "৫ কেজি",
+        "grams": 5000,
+        "price": 640,
+        "mrp": 700,
+        "stock": 0,
+        "sku": "CHINIGURARICE-5000"
+      }
+    ],
+    "createdAt": "2026-09-04T03:15:00.000Z",
+    "updatedAt": "2026-09-18T10:40:00.000Z"
+  },
+  {
+    "id": "prd-007",
+    "slug": "kalijira-rice",
+    "nameBn": "কালিজিরা চাল",
+    "nameEn": "Kalijira Rice",
+    "category": "rice",
+    "originBn": "নওগাঁ",
+    "image": "/images/products/kalijira-rice.svg",
+    "images": [
+      "/images/products/kalijira-rice.svg"
+    ],
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "সূক্ষ্ম সুগন্ধি কালিজিরা চাল, বিশেষ অনুষ্ঠানের জন্য।",
+    "fullDescBn": "নওগাঁর কালিজিরা চাল, অত্যন্ত সূক্ষ্ম দানা ও মিষ্টি সুগন্ধ। বিরিয়ানি ও পোলাওয়ে অভিজাত স্বাদ।",
+    "nutritionHighlights": [
+      "সূক্ষ্ম দানা",
+      "মিষ্টি সুগন্ধ"
+    ],
+    "weights": [
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 150,
+        "mrp": 165,
+        "stock": 12,
+        "sku": "KALIJIRARICE-1000"
+      },
+      {
+        "label": "৫ কেজি",
+        "grams": 5000,
+        "price": 740,
+        "mrp": 800,
+        "stock": 0,
+        "sku": "KALIJIRARICE-5000"
+      }
+    ],
+    "createdAt": "2026-09-08T03:15:00.000Z",
+    "updatedAt": "2026-09-22T10:40:00.000Z"
+  },
+  {
+    "id": "prd-008",
+    "slug": "mustard-oil",
+    "nameBn": "সরিষার তেল",
+    "nameEn": "Mustard Oil",
+    "category": "oil",
+    "originBn": "মানিকগঞ্জ",
+    "image": "/images/products/mustard-oil.svg",
+    "images": [
+      "/images/products/mustard-oil.svg"
+    ],
+    "badgeBn": "সেরা বিক্রিত",
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "ঘানি ভাঙা খাঁটি সরিষার তেল, ঝাঁঝালো স্বাদ।",
+    "fullDescBn": "মানিকগঞ্জের সরিষা থেকে ঘানিতে ভাঙা খাঁটি তেল। প্রাকৃতিক ঝাঁঝ ও রান্নায় গভীর স্বাদ।",
+    "nutritionHighlights": [
+      "ওমেগা-৩",
+      "ঘানি ভাঙা",
+      "কোনো প্রিজারভেটিভ নেই"
+    ],
+    "weights": [
+      {
+        "label": "৫০০ গ্রাম",
+        "grams": 500,
+        "price": 180,
+        "mrp": 200,
+        "stock": 55,
+        "sku": "MUSTARDOIL-500"
+      },
+      {
+        "label": "১ লিটার",
+        "grams": 1000,
+        "price": 350,
+        "mrp": 380,
+        "stock": 32,
+        "sku": "MUSTARDOIL-1000"
+      },
+      {
+        "label": "২ লিটার",
+        "grams": 2000,
+        "price": 680,
+        "mrp": 740,
+        "stock": 14,
+        "sku": "MUSTARDOIL-2000"
+      }
+    ],
+    "createdAt": "2026-09-12T03:15:00.000Z",
+    "updatedAt": "2026-09-26T10:40:00.000Z"
+  },
+  {
+    "id": "prd-009",
+    "slug": "coconut-oil",
+    "nameBn": "নারিকেল তেল",
+    "nameEn": "Coconut Oil",
+    "category": "oil",
+    "originBn": "খুলনা",
+    "image": "/images/products/coconut-oil.svg",
+    "images": [
+      "/images/products/coconut-oil.svg"
+    ],
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "কোল্ড প্রেসড খাঁটি নারিকেল তেল, রান্না ও ত্বকের জন্য।",
+    "fullDescBn": "খুলনার নারিকেল থেকে কোল্ড প্রেস পদ্ধতিতে তৈরি খাঁটি তেল। হালকা মিষ্টি ঘ্রাণ, রান্না ও স্কিনকেয়ারে ব্যবহারযোগ্য।",
+    "nutritionHighlights": [
+      "কোল্ড প্রেসড",
+      "এমসিটি সমৃদ্ধ",
+      "প্রাকৃতিক ঘ্রাণ"
+    ],
+    "weights": [
+      {
+        "label": "৫০০ গ্রাম",
+        "grams": 500,
+        "price": 220,
+        "mrp": 240,
+        "stock": 40,
+        "sku": "COCONUTOIL-500"
+      },
+      {
+        "label": "১ লিটার",
+        "grams": 1000,
+        "price": 420,
+        "mrp": 460,
+        "stock": 21,
+        "sku": "COCONUTOIL-1000"
+      }
+    ],
+    "createdAt": "2026-09-16T03:15:00.000Z",
+    "updatedAt": "2026-09-30T10:40:00.000Z"
+  },
+  {
+    "id": "prd-010",
+    "slug": "olive-oil",
+    "nameBn": "অলিভ অয়েল",
+    "nameEn": "Olive Oil",
+    "category": "oil",
+    "originBn": "স্পেন",
+    "image": "/images/products/olive-oil.svg",
+    "images": [
+      "/images/products/olive-oil.svg"
+    ],
+    "badgeBn": "প্রিমিয়াম",
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "এক্সট্রা ভার্জিন অলিভ অয়েল, সালাদ ও হেলদি রান্নার জন্য।",
+    "fullDescBn": "স্পেন থেকে আমদানি করা এক্সট্রা ভার্জিন অলিভ অয়েল। ঠান্ডা চাপে নিষ্কাশিত, সালাদ ড্রেসিং ও হালকা রান্নার জন্য উপযুক্ত।",
+    "nutritionHighlights": [
+      "এক্সট্রা ভার্জিন",
+      "ওমেগা-৯",
+      "অ্যান্টিঅক্সিডেন্ট"
+    ],
+    "weights": [
+      {
+        "label": "৫০০ মিলি",
+        "grams": 500,
+        "price": 650,
+        "mrp": 700,
+        "stock": 18,
+        "sku": "OLIVEOIL-500"
+      },
+      {
+        "label": "১ লিটার",
+        "grams": 1000,
+        "price": 1250,
+        "mrp": 1350,
+        "stock": 6,
+        "sku": "OLIVEOIL-1000"
+      }
+    ],
+    "createdAt": "2026-09-20T03:15:00.000Z",
+    "updatedAt": "2026-10-04T10:40:00.000Z"
+  },
+  {
+    "id": "prd-011",
+    "slug": "soybean-oil",
+    "nameBn": "সয়াবিন তেল",
+    "nameEn": "Soybean Oil",
+    "category": "oil",
+    "originBn": "ঢাকা",
+    "image": "/images/products/soybean-oil.svg",
+    "images": [
+      "/images/products/soybean-oil.svg"
+    ],
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "প্রতিদিনের রান্নার জন্য পরিশোধিত সয়াবিন তেল।",
+    "fullDescBn": "পরিশোধিত সয়াবিন তেল, হালকা স্বাদ ও উচ্চ স্মোক পয়েন্ট। প্রতিদিনের ভাজা ও রান্নার জন্য নির্ভরযোগ্য।",
+    "nutritionHighlights": [
+      "ভিটামিন ই",
+      "হালকা স্বাদ"
+    ],
+    "weights": [
+      {
+        "label": "১ লিটার",
+        "grams": 1000,
+        "price": 165,
+        "mrp": 175,
+        "stock": 90,
+        "sku": "SOYBEANOIL-1000"
+      },
+      {
+        "label": "৫ লিটার",
+        "grams": 5000,
+        "price": 810,
+        "mrp": 850,
+        "stock": 35,
+        "sku": "SOYBEANOIL-5000"
+      }
+    ],
+    "createdAt": "2026-09-24T03:15:00.000Z",
+    "updatedAt": "2026-10-08T10:40:00.000Z"
+  },
+  {
+    "id": "prd-012",
+    "slug": "sesame-oil",
+    "nameBn": "তিলের তেল",
+    "nameEn": "Sesame Oil",
+    "category": "oil",
+    "originBn": "যশোর",
+    "image": "/images/products/sesame-oil.svg",
+    "images": [
+      "/images/products/sesame-oil.svg"
+    ],
+    "inStock": true,
+    "status": "draft",
+    "shortDescBn": "খাঁটি তিলের তেল, রান্না ও ঐতিহ্যবাহী ব্যবহারে।",
+    "fullDescBn": "যশোরের তিল থেকে তৈরি খাঁটি তেল। গভীর বাদামি স্বাদ, রান্না ও শরীরে মালিশে ব্যবহারযোগ্য।",
+    "nutritionHighlights": [
+      "ক্যালসিয়াম",
+      "ওমেগা-৬"
+    ],
+    "weights": [
+      {
+        "label": "৫০০ গ্রাম",
+        "grams": 500,
+        "price": 240,
+        "mrp": 260,
+        "stock": 0,
+        "sku": "SESAMEOIL-500"
+      },
+      {
+        "label": "১ লিটার",
+        "grams": 1000,
+        "price": 470,
+        "mrp": 510,
+        "stock": 11,
+        "sku": "SESAMEOIL-1000"
+      }
+    ],
+    "createdAt": "2026-09-28T03:15:00.000Z",
+    "updatedAt": "2026-10-12T10:40:00.000Z"
+  },
+  {
+    "id": "prd-013",
+    "slug": "ghani-mustard-oil",
+    "nameBn": "ঘানি ভাঙা সরিষার তেল",
+    "nameEn": "Ghani Mustard Oil",
+    "category": "oil",
+    "originBn": "পাবনা",
+    "image": "/images/products/ghani-mustard-oil.svg",
+    "images": [
+      "/images/products/ghani-mustard-oil.svg"
+    ],
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "ঐতিহ্যবাহী ঘানিতে ভাঙা সরিষার তেল, তীব্র ঝাঁঝ।",
+    "fullDescBn": "পাবনার সরিষা ঐতিহ্যবাহী কাঠের ঘানিতে ভাঙা। প্রাকৃতিক ঝাঁঝ ও পুষ্টিগুণ অটুট থাকে।",
+    "nutritionHighlights": [
+      "কাঠের ঘানি",
+      "ওমেগা-৩",
+      "ঝাঁঝালো স্বাদ"
+    ],
+    "weights": [
+      {
+        "label": "১ লিটার",
+        "grams": 1000,
+        "price": 380,
+        "mrp": 420,
+        "stock": 25,
+        "sku": "GHANIMUSTARDOIL-1000"
+      },
+      {
+        "label": "২ লিটার",
+        "grams": 2000,
+        "price": 740,
+        "mrp": 800,
+        "stock": 9,
+        "sku": "GHANIMUSTARDOIL-2000"
+      }
+    ],
+    "createdAt": "2026-10-02T03:15:00.000Z",
+    "updatedAt": "2026-10-16T10:40:00.000Z"
+  },
+  {
+    "id": "prd-014",
+    "slug": "sundarban-honey",
+    "nameBn": "সুন্দরবনের মধু",
+    "nameEn": "Sundarban Honey",
+    "category": "honey-ghee",
+    "originBn": "খুলনা",
+    "image": "/images/products/sundarban-honey.svg",
+    "images": [
+      "/images/products/sundarban-honey.svg"
+    ],
+    "badgeBn": "খাঁটি",
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "সুন্দরবনের প্রাকৃতিক মধু, কোনো চিনি বা প্রিজারভেটিভ নেই।",
+    "fullDescBn": "সুন্দরবনের খলিশা ও গরান ফুল থেকে সংগ্রহ করা প্রাকৃতিক মধু। কাঁচা ও অপরিশোধিত, প্রাকৃতিক ক্রিস্টালাইজেশন স্বাভাবিক।",
+    "nutritionHighlights": [
+      "কাঁচা মধু",
+      "অ্যান্টিঅক্সিডেন্ট",
+      "কোনো চিনি নেই"
+    ],
+    "weights": [
+      {
+        "label": "৫০০ গ্রাম",
+        "grams": 500,
+        "price": 420,
+        "mrp": 450,
+        "stock": 28,
+        "sku": "SUNDARBANHONEY-500"
+      },
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 800,
+        "mrp": 850,
+        "stock": 10,
+        "sku": "SUNDARBANHONEY-1000"
+      }
+    ],
+    "createdAt": "2026-10-06T03:15:00.000Z",
+    "updatedAt": "2026-10-20T10:40:00.000Z"
+  },
+  {
+    "id": "prd-015",
+    "slug": "black-seed-honey",
+    "nameBn": "কালোজিরার মধু",
+    "nameEn": "Black Seed Honey",
+    "category": "honey-ghee",
+    "originBn": "সাতক্ষীরা",
+    "image": "/images/products/black-seed-honey.svg",
+    "images": [
+      "/images/products/black-seed-honey.svg"
+    ],
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "কালোজিরা ফুলের বিরল মধু, গাঢ় রঙ ও শক্তিশালী স্বাদ।",
+    "fullDescBn": "সাতক্ষীরার কালোজিরা ফুল থেকে সংগ্রহ করা বিরল মধু। গাঢ় রঙ, মাটির মতো ঘ্রাণ ও শক্তিশালী স্বাদ।",
+    "nutritionHighlights": [
+      "বিরল সংগ্রহ",
+      "গাঢ় রঙ",
+      "প্রাকৃতিক"
+    ],
+    "weights": [
+      {
+        "label": "৫০০ গ্রাম",
+        "grams": 500,
+        "price": 480,
+        "mrp": 520,
+        "stock": 15,
+        "sku": "BLACKSEEDHONEY-500"
+      },
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 920,
+        "mrp": 980,
+        "stock": 5,
+        "sku": "BLACKSEEDHONEY-1000"
+      }
+    ],
+    "createdAt": "2026-10-10T03:15:00.000Z",
+    "updatedAt": "2026-10-24T10:40:00.000Z"
+  },
+  {
+    "id": "prd-016",
+    "slug": "lychee-honey",
+    "nameBn": "লিচু ফুলের মধু",
+    "nameEn": "Lychee Flower Honey",
+    "category": "honey-ghee",
+    "originBn": "দিনাজপুর",
+    "image": "/images/products/lychee-honey.svg",
+    "images": [
+      "/images/products/lychee-honey.svg"
+    ],
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "লিচু ফুলের হালকা মিষ্টি মধু, সকালের নাস্তার জন্য।",
+    "fullDescBn": "দিনাজপুরের লিচু বাগানের ফুল থেকে সংগ্রহ করা হালকা রঙের মধু। মিষ্টি সুবাস ও নরম স্বাদ।",
+    "nutritionHighlights": [
+      "হালকা স্বাদ",
+      "প্রাকৃতিক এনজাইম"
+    ],
+    "weights": [
+      {
+        "label": "৫০০ গ্রাম",
+        "grams": 500,
+        "price": 380,
+        "mrp": 420,
+        "stock": 32,
+        "sku": "LYCHEEHONEY-500"
+      },
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 720,
+        "mrp": 780,
+        "stock": 16,
+        "sku": "LYCHEEHONEY-1000"
+      }
+    ],
+    "createdAt": "2026-10-14T03:15:00.000Z",
+    "updatedAt": "2026-10-28T10:40:00.000Z"
+  },
+  {
+    "id": "prd-017",
+    "slug": "pure-ghee",
+    "nameBn": "খাঁটি গাওয়া ঘি",
+    "nameEn": "Pure Gawa Ghee",
+    "category": "honey-ghee",
+    "originBn": "বগুড়া",
+    "image": "/images/products/pure-ghee.svg",
+    "images": [
+      "/images/products/pure-ghee.svg"
+    ],
+    "badgeBn": "সেরা বিক্রিত",
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "দেশি গরুর দুধের খাঁটি গাওয়া ঘি, দানাদার ও সুগন্ধি।",
+    "fullDescBn": "বগুড়ার দেশি গরুর দুধ থেকে ঐতিহ্যবাহী পদ্ধতিতে তৈরি গাওয়া ঘি। দানাদার টেক্সচার ও গভীর সুগন্ধ।",
+    "nutritionHighlights": [
+      "দেশি গরুর দুধ",
+      "দানাদার",
+      "কোনো ভেজাল নেই"
+    ],
+    "weights": [
+      {
+        "label": "২৫০ গ্রাম",
+        "grams": 250,
+        "price": 380,
+        "mrp": 420,
+        "stock": 30,
+        "sku": "PUREGHEE-250"
+      },
+      {
+        "label": "৫০০ গ্রাম",
+        "grams": 500,
+        "price": 740,
+        "mrp": 800,
+        "stock": 18,
+        "sku": "PUREGHEE-500"
+      },
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 1450,
+        "mrp": 1550,
+        "stock": 7,
+        "sku": "PUREGHEE-1000"
+      }
+    ],
+    "createdAt": "2026-10-18T03:15:00.000Z",
+    "updatedAt": "2026-11-01T10:40:00.000Z"
+  },
+  {
+    "id": "prd-018",
+    "slug": "buffalo-ghee",
+    "nameBn": "বাফেলো ঘি",
+    "nameEn": "Buffalo Ghee",
+    "category": "honey-ghee",
+    "originBn": "বগুড়া",
+    "image": "/images/products/buffalo-ghee.svg",
+    "images": [
+      "/images/products/buffalo-ghee.svg"
+    ],
+    "inStock": true,
+    "status": "active",
+    "shortDescBn": "মহিষের দুধের ঘন ও সুগন্ধি ঘি, বিশেষ রান্নার জন্য।",
+    "fullDescBn": "মহিষের দুধ থেকে তৈরি ঘন ঘি। উৎসবের রান্না ও মিষ্টান্নে অভিজাত স্বাদ যোগ করে।",
+    "nutritionHighlights": [
+      "ঘন টেক্সচার",
+      "উৎসবের রান্না"
+    ],
+    "weights": [
+      {
+        "label": "৫০০ গ্রাম",
+        "grams": 500,
+        "price": 820,
+        "mrp": 880,
+        "stock": 12,
+        "sku": "BUFFALOGHEE-500"
+      },
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 1600,
+        "mrp": 1700,
+        "stock": 4,
+        "sku": "BUFFALOGHEE-1000"
+      }
+    ],
+    "createdAt": "2026-10-22T03:15:00.000Z",
+    "updatedAt": "2026-11-05T10:40:00.000Z"
+  },
+  {
+    "id": "prd-019",
+    "slug": "cow-ghee",
+    "nameBn": "গরুর ঘি",
+    "nameEn": "Cow Ghee",
+    "category": "honey-ghee",
+    "originBn": "পাবনা",
+    "image": "/images/products/cow-ghee.svg",
+    "images": [
+      "/images/products/cow-ghee.svg"
+    ],
+    "inStock": true,
+    "status": "draft",
+    "shortDescBn": "পাবনার গরুর দুধের ঘি, প্রতিদিনের রান্নায় স্বাদ বাড়ায়।",
+    "fullDescBn": "পাবনার গরুর দুধ থেকে তৈরি ঘি। হালকা সুগন্ধ, ভাত ও রুটির সঙ্গে দুর্দান্ত।",
+    "nutritionHighlights": [
+      "প্রতিদিনের ব্যবহার",
+      "ভিটামিন এ, ডি"
+    ],
+    "weights": [
+      {
+        "label": "২৫০ গ্রাম",
+        "grams": 250,
+        "price": 420,
+        "mrp": 460,
+        "stock": 20,
+        "sku": "COWGHEE-250"
+      },
+      {
+        "label": "৫০০ গ্রাম",
+        "grams": 500,
+        "price": 820,
+        "mrp": 880,
+        "stock": 8,
+        "sku": "COWGHEE-500"
+      }
+    ],
+    "createdAt": "2026-10-26T03:15:00.000Z",
+    "updatedAt": "2026-11-09T10:40:00.000Z"
+  },
+  {
+    "id": "prd-020",
+    "slug": "mixed-flower-honey",
+    "nameBn": "মিশ্র ফুলের মধু",
+    "nameEn": "Mixed Flower Honey",
+    "category": "honey-ghee",
+    "originBn": "মুন্সিগঞ্জ",
+    "image": "/images/products/mixed-flower-honey.svg",
+    "images": [
+      "/images/products/mixed-flower-honey.svg"
+    ],
+    "inStock": false,
+    "status": "draft",
+    "shortDescBn": "মিশ্র ফুলের প্রাকৃতিক মধু, প্রতিদিনের ব্যবহারের জন্য।",
+    "fullDescBn": "মুন্সিগঞ্জের বাগান ও ফসলের ফুল থেকে সংগ্রহ করা মিশ্র মধু। মৃদু মিষ্টি স্বাদ, প্রতিদিনের খাবারে উপযুক্ত।",
+    "nutritionHighlights": [
+      "প্রাকৃতিক",
+      "মৃদু স্বাদ"
+    ],
+    "weights": [
+      {
+        "label": "৫০০ গ্রাম",
+        "grams": 500,
+        "price": 350,
+        "mrp": 390,
+        "stock": 0,
+        "sku": "MIXEDFLOWERHONEY-500"
+      },
+      {
+        "label": "১ কেজি",
+        "grams": 1000,
+        "price": 680,
+        "mrp": 740,
+        "stock": 0,
+        "sku": "MIXEDFLOWERHONEY-1000"
+      }
+    ],
+    "createdAt": "2026-10-30T03:15:00.000Z",
+    "updatedAt": "2026-11-13T10:40:00.000Z"
+  }
+]

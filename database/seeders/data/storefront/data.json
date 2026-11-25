@@ -1,0 +1,316 @@
+{
+  "storeSettings": {
+    "brandNameBn": "সোনালী ফসল অর্গানিকস",
+    "brandTaglineBn": "খাঁটি গ্রামের খাবার, সরাসরি কৃষকের কাছ থেকে",
+    "whatsappNumber": "8801711000000",
+    "facebookPageUrl": "https://facebook.com/sonalifosholorganics",
+    "messengerUrl": "https://m.me/sonalifosholorganics",
+    "insideDhakaDelivery": 60,
+    "outsideDhakaDelivery": 120,
+    "freeShippingThreshold": 1500,
+    "phoneDisplay": "+৮৮০ ১৭১১-০০০০০০",
+    "email": "hello@sonalifoshol.com",
+    "addressBn": "চিরিরবন্দর, দিনাজপুর, বাংলাদেশ"
+  },
+  "categories": [
+    { "id": "all", "slug": "all", "nameBn": "সব পণ্য" },
+    { "id": "rice", "slug": "rice", "nameBn": "ঐতিহ্যবাহী চাল" },
+    { "id": "oil", "slug": "oil", "nameBn": "ঘানি ভাঙা তেল" },
+    { "id": "honey-ghee", "slug": "honey-ghee", "nameBn": "খাঁটি মধু ও ঘি" },
+    { "id": "spices", "slug": "spices", "nameBn": "ঘরে ভাঙা মসলা" }
+  ],
+  "products": [
+    {
+      "id": "prod-01",
+      "slug": "dinajpur-old-kataribhog-rice",
+      "nameBn": "দিনাজপুরের পুরনো কাটারিভোগ চাল",
+      "nameEn": "Dinajpur Aged Kataribhog Rice",
+      "category": "rice",
+      "originBn": "চিরিরবন্দর, দিনাজপুর",
+      "image": "/images/products/kataribhog-rice.svg",
+      "badgeBn": "সেরা বিক্রিত",
+      "inStock": true,
+      "shortDescBn": "প্রাকৃতিক সুগন্ধযুক্ত সরু ও ঝরঝরে পুরনো কাটারিভোগ চাল, কোনো প্রকার পলিশ বা কেমিক্যাল ছাড়াই ছাঁটা।",
+      "fullDescBn": "দিনাজপুরের চিরিরবন্দরের উর্বর পলিমাটিতে প্রাকৃতিক উপায়ে চাষ করা ধান কমপক্ষে আট মাস সংরক্ষণের পর ঢেঁকিতে ছাঁটা হয়। কোনো পলিশ, কেমিক্যাল বা কৃত্রিম সুগন্ধি ব্যবহার করা হয় না, তাই চালের প্রাকৃতিক সুগন্ধ ও পুষ্টি অটুট থাকে।",
+      "nutritionHighlights": ["ফাইবার সমৃদ্ধ", "লো গ্লাইসেমিক ইনডেক্স", "১০০% আনপলিশড"],
+      "nutritionFacts": [
+        { "labelBn": "প্রতি ১০০ গ্রাম", "valueBn": "৩৫০ কিলোক্যালরি" },
+        { "labelBn": "কার্বোহাইড্রেট", "valueBn": "৭৮ গ্রাম" },
+        { "labelBn": "প্রোটিন", "valueBn": "৭.২ গ্রাম" },
+        { "labelBn": "ফাইবার", "valueBn": "২.৪ গ্রাম" }
+      ],
+      "cookingTipsBn": "রান্নার ৩০ মিনিট আগে চাল ধুয়ে ভিজিয়ে রাখুন। প্রতি কাপ চালে ২ কাপ পানি দিয়ে মাঝারি আঁচে ঢেকে রান্না করুন, ঝরঝরে ভাত পাবেন।",
+      "weights": [
+        { "label": "১ কেজি", "grams": 1000, "price": 105, "mrp": 120 },
+        { "label": "৫ কেজি", "grams": 5000, "price": 490, "mrp": 550 },
+        { "label": "১০ কেজি", "grams": 10000, "price": 950, "mrp": 1080 }
+      ]
+    },
+    {
+      "id": "prod-02",
+      "slug": "dinajpur-kalijira-rice",
+      "nameBn": "দিনাজপুরের কালিজিরা চাল",
+      "nameEn": "Dinajpur Kalijira Rice",
+      "category": "rice",
+      "originBn": "হাকিমপুর, দিনাজপুর",
+      "image": "/images/products/kalijira-rice.svg",
+      "badgeBn": "ঐতিহ্যবাহী সুগন্ধি",
+      "inStock": true,
+      "shortDescBn": "ছোট দানার কালিজিরা চাল প্রাকৃতিক সুগন্ধে ভরপুর, পোলাও ও বিরিয়ানির জন্য সবচেয়ে জনপ্রিয়।",
+      "fullDescBn": "হাকিমপুরের ছোট কৃষক পরিবার থেকে সংগ্রহ করা কালিজিরা ধান ঐতিহ্যবাহী পদ্ধতিতে সিদ্ধ করে রোদে শুকিয়ে প্রক্রিয়া করা হয়। চালের দানা ছোট হলেও রান্নার পর দ্বিগুণ হয়ে ওঠে এবং ঘরভরতি মিষ্টি সুগন্ধ ছড়ায়।",
+      "nutritionHighlights": ["প্রাকৃতিক সুগন্ধ", "গ্লুটেন মুক্ত", "কম পলিশড"],
+      "nutritionFacts": [
+        { "labelBn": "প্রতি ১০০ গ্রাম", "valueBn": "৩৪৬ কিলোক্যালরি" },
+        { "labelBn": "কার্বোহাইড্রেট", "valueBn": "৭৬ গ্রাম" },
+        { "labelBn": "প্রোটিন", "valueBn": "৭ গ্রাম" },
+        { "labelBn": "আয়রন", "valueBn": "১.২ মিলিগ্রাম" }
+      ],
+      "cookingTipsBn": "পোলাওয়ের জন্য চাল ২০ মিনিট ভিজিয়ে নিন এবং ঘি বা তেলে হালকা ভেজে নিন, তারপর পানি দিয়ে দমে রাখুন।",
+      "weights": [
+        { "label": "১ কেজি", "grams": 1000, "price": 135, "mrp": 150 },
+        { "label": "৫ কেজি", "grams": 5000, "price": 640, "mrp": 720 },
+        { "label": "১০ কেজি", "grams": 10000, "price": 1250, "mrp": 1450 }
+      ]
+    },
+    {
+      "id": "prod-03",
+      "slug": "sundarbans-black-rice",
+      "nameBn": "সুন্দরবনের কালো চাল",
+      "nameEn": "Sundarbans Black Rice",
+      "category": "rice",
+      "originBn": "সুন্দরবন উপকূল, খুলনা",
+      "image": "/images/products/black-rice.svg",
+      "badgeBn": "সীমিত স্টক",
+      "inStock": false,
+      "shortDescBn": "অ্যান্থোসায়ানিন সমৃদ্ধ ভেষজ কালো চাল, সুস্বাদু খিচুড়ি ও পায়েসের জন্য আদর্শ।",
+      "fullDescBn": "সুন্দরবনের লবণাক্ত সহনশীল জমিতে চাষ হওয়া এই ভেষজ চালে প্রচুর অ্যান্থোসায়ানিন ও অ্যান্টি-অক্সিডেন্ট রয়েছে। বছরে একবারই ফসল হয়, তাই সংগ্রহ সীমিত।",
+      "nutritionHighlights": ["অ্যান্টি-অক্সিডেন্ট", "আয়রন সমৃদ্ধ", "ভেষজ জাত"],
+      "nutritionFacts": [
+        { "labelBn": "প্রতি ১০০ গ্রাম", "valueBn": "৩৫৭ কিলোক্যালরি" },
+        { "labelBn": "কার্বোহাইড্রেট", "valueBn": "৭২ গ্রাম" },
+        { "labelBn": "প্রোটিন", "valueBn": "৮.৯ গ্রাম" },
+        { "labelBn": "আয়রন", "valueBn": "৩.৪ মিলিগ্রাম" }
+      ],
+      "cookingTipsBn": "রান্নার আগে অন্তত ২ ঘণ্টা ভিজিয়ে রাখুন। পায়েস বা খিচুড়িতে ঘি ও খেজুর মিশিয়ে পরিবেশন করুন।",
+      "weights": [
+        { "label": "৫০০ গ্রাম", "grams": 500, "price": 120, "mrp": 140 },
+        { "label": "১ কেজি", "grams": 1000, "price": 220, "mrp": 250 },
+        { "label": "২ কেজি", "grams": 2000, "price": 430, "mrp": 490 }
+      ]
+    },
+    {
+      "id": "prod-04",
+      "slug": "thakurgaon-chinigura-rice",
+      "nameBn": "ঠাকুরগাঁওয়ের চিনিগুঁড়া চাল",
+      "nameEn": "Thakurgaon Chinigura Rice",
+      "category": "rice",
+      "originBn": "ঠাকুরগাঁও সদর",
+      "image": "/images/products/chinigura-rice.svg",
+      "badgeBn": null,
+      "inStock": true,
+      "shortDescBn": "মিষ্টি ঘ্রাণের নরম চিনিগুঁড়া চাল, পায়েস, ফিরনি ও বিজ্ঞাপনের রান্নায় অতুলনীয়।",
+      "fullDescBn": "উত্তরবঙ্গের ঠাকুরগাঁও থেকে আসা চিনিগুঁড়া চাল হাতে বাছাই করে ছোট ব্যাচে প্রক্রিয়া করা হয়। দানা ছোট হলেও রান্নায় নরম ও মিষ্টি স্বাদ দেয়।",
+      "nutritionHighlights": ["মিষ্টি প্রাকৃতিক ঘ্রাণ", "নরম দানা", "নতুন ফসল"],
+      "nutritionFacts": [
+        { "labelBn": "প্রতি ১০০ গ্রাম", "valueBn": "৩৪২ কিলোক্যালরি" },
+        { "labelBn": "কার্বোহাইড্রেট", "valueBn": "৭৫ গ্রাম" },
+        { "labelBn": "প্রোটিন", "valueBn": "৬.৮ গ্রাম" },
+        { "labelBn": "ফাইবার", "valueBn": "১.৯ গ্রাম" }
+      ],
+      "cookingTipsBn": "পায়েসের জন্য চাল ১৫ মিনিট ভিজিয়ে নরম করে নিন। দুধ ফুটে উঠলে চাল দিয়ে নিচু আঁচে নাড়তে থাকুন।",
+      "weights": [
+        { "label": "১ কেজি", "grams": 1000, "price": 130, "mrp": 145 },
+        { "label": "৫ কেজি", "grams": 5000, "price": 620, "mrp": 690 },
+        { "label": "১০ কেজি", "grams": 10000, "price": 1200, "mrp": 1350 }
+      ]
+    },
+    {
+      "id": "prod-05",
+      "slug": "pabna-ghani-mustard-oil",
+      "nameBn": "পাবনার ঘানি ভাঙা সরিষার তেল",
+      "nameEn": "Pabna Cold-Pressed Mustard Oil",
+      "category": "oil",
+      "originBn": "সুজানগর, পাবনা",
+      "image": "/images/products/mustard-oil.svg",
+      "badgeBn": "ঘানিতে ভাঙা",
+      "inStock": true,
+      "shortDescBn": "দেশি সরিষা কাঠের ঘানিতে ঠান্ডা পদ্ধতিতে ভাঙা, ঝাঁঝালো খাঁটি সরিষার তেল।",
+      "fullDescBn": "পাবনার সুজানগরের দেশি কালো সরিষা শুকিয়ে কাঠের ঘানিতে ধীরে ধীরে ভাঙা হয়। তাপ বা কেমিক্যাল ব্যবহার না হওয়ায় তেলের ঝাঁঝ ও পুষ্টিগুণ পুরোপুরি রক্ষা পায়।",
+      "nutritionHighlights": ["কোল্ড-প্রেসড", "ওমেগা-৩ সমৃদ্ধ", "কোনো প্রিজারভেটিভ নেই"],
+      "nutritionFacts": [
+        { "labelBn": "প্রতি ১০০ মিলি", "valueBn": "৮৮৪ কিলোক্যালরি" },
+        { "labelBn": "মোট ফ্যাট", "valueBn": "১০০ গ্রাম" },
+        { "labelBn": "ভিটামিন ই", "valueBn": "২৫ মিলিগ্রাম" },
+        { "labelBn": "ওমেগা-৩", "valueBn": "৪.২ গ্রাম" }
+      ],
+      "cookingTipsBn": "ভর্তা ও আচারে কাঁচা তেল হিসেবে ব্যবহার করুন। মাছ রান্নার আগে তেল হালকা গরম করে নিলে ঝাঁঝ কমে ও ঘ্রাণ বাড়ে।",
+      "weights": [
+        { "label": "৫০০ মিলি", "grams": 500, "price": 180, "mrp": 200 },
+        { "label": "১ লিটার", "grams": 1000, "price": 340, "mrp": 380 },
+        { "label": "২ লিটার", "grams": 2000, "price": 660, "mrp": 740 }
+      ]
+    },
+    {
+      "id": "prod-06",
+      "slug": "sundarbans-khalisha-honey",
+      "nameBn": "সুন্দরবনের খলিশা মধু",
+      "nameEn": "Sundarbans Khalisha Honey",
+      "category": "honey-ghee",
+      "originBn": "খলিশা বন, সুন্দরবন",
+      "image": "/images/products/sundarbans-honey.svg",
+      "badgeBn": "সরাসরি মৌয়াল",
+      "inStock": true,
+      "shortDescBn": "সুন্দরবনের খলিশা ফুল থেকে সংগ্রহ করা কাঁচা মধু, কোনো চিনি বা প্রক্রিয়াকরণ ছাড়াই।",
+      "fullDescBn": "সুন্দরবনের মৌয়ালরা খলিশা ফুলের মৌসুমে মধু সংগ্রহ করেন। মধু ছেঁকে সরাসরি কাচের বোতলে ভরা হয়, কোনো চিনি, সিরাপ বা তাপ প্রক্রিয়া ছাড়াই।",
+      "nutritionHighlights": ["১০০% কাঁচা মধু", "প্রাকৃতিক অ্যান্টি-অক্সিডেন্ট", "সরাসরি মৌয়ালের সংগ্রহ"],
+      "nutritionFacts": [
+        { "labelBn": "প্রতি ১০০ গ্রাম", "valueBn": "৩০৪ কিলোক্যালরি" },
+        { "labelBn": "শর্করা", "valueBn": "৮২ গ্রাম" },
+        { "labelBn": "প্রোটিন", "valueBn": "০.৩ গ্রাম" },
+        { "labelBn": "সোডিয়াম", "valueBn": "৪ মিলিগ্রাম" }
+      ],
+      "cookingTipsBn": "মধু কখনো ফুটাবেন না। চা বা পানির তাপমাত্রা হালকা গরম হলে মধু মিশিয়ে পান করুন।",
+      "weights": [
+        { "label": "২৫০ গ্রাম", "grams": 250, "price": 350, "mrp": 400 },
+        { "label": "৫০০ গ্রাম", "grams": 500, "price": 650, "mrp": 750 },
+        { "label": "১ কেজি", "grams": 1000, "price": 1250, "mrp": 1450 }
+      ]
+    },
+    {
+      "id": "prod-07",
+      "slug": "bogura-gawa-ghee",
+      "nameBn": "বগুড়ার গাওয়া ঘি",
+      "nameEn": "Bogura Gawa Ghee",
+      "category": "honey-ghee",
+      "originBn": "শেরপুর, বগুড়া",
+      "image": "/images/products/gawa-ghee.svg",
+      "badgeBn": "হাতে তৈরি",
+      "inStock": true,
+      "shortDescBn": "দেশি গরুর দুধের মাখন থেকে হাতে জ্বাল দেওয়া দানাদার গাওয়া ঘি, ঘরে তৈরি সুবাসে ভরপুর।",
+      "fullDescBn": "বগুড়ার শেরপুরের দেশি গরু থেকে সংগ্রহ করা দুধের মাখন হাতে মথে নিয়ে মাটির হাঁড়িতে ধীরে ধীরে জ্বাল দেওয়া হয়। ফলে ঘি দানাদার হয় এবং ঘরে ছড়ায় খাঁটি গাওয়া ঘ্রাণ।",
+      "nutritionHighlights": ["দেশি গরুর দুধ", "হাতে জ্বালানো", "কোনো ভেজাল নেই"],
+      "nutritionFacts": [
+        { "labelBn": "প্রতি ১০০ গ্রাম", "valueBn": "৮৭৬ কিলোক্যালরি" },
+        { "labelBn": "স্যাচুরেটেড ফ্যাট", "valueBn": "৬২ গ্রাম" },
+        { "labelBn": "ভিটামিন এ", "valueBn": "৮৪০ আইইউ" },
+        { "labelBn": "ভিটামিন ডি", "valueBn": "২.৬ মাইক্রোগ্রাম" }
+      ],
+      "cookingTipsBn": "গরম ভাত বা খিচুড়িতে এক চামচ ঘি মিশিয়ে দিন। রান্নায় ব্যবহার করলে তাপমাত্রা বেশি না করাই ভালো।",
+      "weights": [
+        { "label": "২৫০ গ্রাম", "grams": 250, "price": 480, "mrp": 520 },
+        { "label": "৫০০ গ্রাম", "grams": 500, "price": 940, "mrp": 1020 },
+        { "label": "১ কেজি", "grams": 1000, "price": 1820, "mrp": 1980 }
+      ]
+    },
+    {
+      "id": "prod-08",
+      "slug": "naogaon-turmeric-powder",
+      "nameBn": "নওগাঁর হলুদ গুঁড়া",
+      "nameEn": "Naogaon Turmeric Powder",
+      "category": "spices",
+      "originBn": "মহাদেবপুর, নওগাঁ",
+      "image": "/images/products/turmeric-powder.svg",
+      "badgeBn": null,
+      "inStock": true,
+      "shortDescBn": "নওগাঁর হলুদ কন্দ শুকিয়ে পাথরের জাঁতে ভাঙা, কোনো রং বা ময়দা মেশানো নেই।",
+      "fullDescBn": "মহাদেবপুরের হলুদ কন্দ সিদ্ধ করে রোদে শুকিয়ে পাথরের জাঁতে ভাঙা হয়। প্রাকৃতিক হলুদ রঙ ও কারকিউমিন অটুট রাখতে কোনো কৃত্রিম রং ব্যবহার করা হয় না।",
+      "nutritionHighlights": ["কারকিউমিন সমৃদ্ধ", "কোনো কৃত্রিম রং নেই", "পাথরে ভাঙা"],
+      "nutritionFacts": [
+        { "labelBn": "প্রতি ১০০ গ্রাম", "valueBn": "৩৫৪ কিলোক্যালরি" },
+        { "labelBn": "কার্বোহাইড্রেট", "valueBn": "৬৫ গ্রাম" },
+        { "labelBn": "ফাইবার", "valueBn": "২১ গ্রাম" },
+        { "labelBn": "আয়রন", "valueBn": "৪১ মিলিগ্রাম" }
+      ],
+      "cookingTipsBn": "মাছ বা মাংসের মেরিনেশনে আধা চা-চামচ হলুদ ব্যবহার করুন। কাঁচা হলুদের স্বাদ বাড়াতে সামান্য পানি মিশিয়ে পেস্ট করুন।",
+      "weights": [
+        { "label": "২৫০ গ্রাম", "grams": 250, "price": 110, "mrp": 120 },
+        { "label": "৫০০ গ্রাম", "grams": 500, "price": 210, "mrp": 230 },
+        { "label": "১ কেজি", "grams": 1000, "price": 400, "mrp": 440 }
+      ]
+    },
+    {
+      "id": "prod-09",
+      "slug": "rangunia-chili-powder",
+      "nameBn": "রাঙ্গুনিয়ার মরিচ গুঁড়া",
+      "nameEn": "Rangunia Chili Powder",
+      "category": "spices",
+      "originBn": "রাঙ্গুনিয়া, চট্টগ্রাম",
+      "image": "/images/products/chili-powder.svg",
+      "badgeBn": "ঝালে ভরপুর",
+      "inStock": true,
+      "shortDescBn": "চট্টগ্রামের শুকনো লাল মরিচ রোদে শুকিয়ে ভাঙা, গাঢ় লাল রঙের খাঁটি মরিচ গুঁড়া।",
+      "fullDescBn": "রাঙ্গুনিয়ার পাহাড়ি জমির লাল মরিচ রোদে শুকিয়ে হাতে বাছাই করে ভাঙা হয়। কোনো কৃত্রিম রং বা ভুট্টা মেশানো হয় না, তাই ঝাল ও ঘ্রাণ দুটোই খাঁটি।",
+      "nutritionHighlights": ["প্রাকৃতিক লাল রঙ", "কোনো ফিলার নেই", "সূর্যে শুকানো"],
+      "nutritionFacts": [
+        { "labelBn": "প্রতি ১০০ গ্রাম", "valueBn": "৩১৮ কিলোক্যালরি" },
+        { "labelBn": "কার্বোহাইড্রেট", "valueBn": "৫৭ গ্রাম" },
+        { "labelBn": "ফাইবার", "valueBn": "২৭ গ্রাম" },
+        { "labelBn": "ভিটামিন সি", "valueBn": "৮০ মিলিগ্রাম" }
+      ],
+      "cookingTipsBn": "তেল গরম হলে আঁচ কমিয়ে মরিচ গুঁড়া দিন, যাতে রঙ পোড়া না যায়। ভর্তা বা শুকনো মসলায় অল্প পরিমাণেই যথেষ্ট।",
+      "weights": [
+        { "label": "২৫০ গ্রাম", "grams": 250, "price": 95, "mrp": 110 },
+        { "label": "৫০০ গ্রাম", "grams": 500, "price": 180, "mrp": 200 },
+        { "label": "১ কেজি", "grams": 1000, "price": 340, "mrp": 390 }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-01",
+      "customerName": "তানভীর আহমেদ",
+      "location": "উত্তরা, ঢাকা",
+      "rating": 5,
+      "commentBn": "কাটারিভোগ চাল আর ঘানি ভাঙা সরিষার তেলের ঘ্রাণ অসাধারণ! একদম গ্রামের খাঁটি স্বাদ পেলাম।"
+    },
+    {
+      "id": "rev-02",
+      "customerName": "ফারজানা আক্তার",
+      "location": "পাঁচলাইশ, চট্টগ্রাম",
+      "rating": 5,
+      "commentBn": "সুন্দরবনের মধুটা এত ঘন আর সুগন্ধি হবে ভাবিনি। বাচ্চারা রোজ সকালে খাচ্ছে, আবার অর্ডার দিয়েছি।"
+    },
+    {
+      "id": "rev-03",
+      "customerName": "মাহমুদুল হাসান",
+      "location": "জিন্দাবাজার, সিলেট",
+      "rating": 4,
+      "commentBn": "গাওয়া ঘি হাতে তৈরি মনে হচ্ছে, দানাদার আর ঘ্রাণও খাঁটি। প্যাকেজিং আরেকটু মজবুত হলে ভালো হতো।"
+    },
+    {
+      "id": "rev-04",
+      "customerName": "শারমিন সুলতানা",
+      "location": "ধানমন্ডি, ঢাকা",
+      "rating": 5,
+      "commentBn": "বিরিয়ানির জন্য কালিজিরা চাল নিয়েছিলাম, সুগন্ধে পুরো বাসা ভরে গেল। ডেলিভারিও দ্রুত পেয়েছি।"
+    },
+    {
+      "id": "rev-05",
+      "customerName": "রফিকুল ইসলাম",
+      "location": "বোয়ালিয়া, রাজশাহী",
+      "rating": 5,
+      "commentBn": "হলুদের রঙ আর ঘ্রাণ দেখেই বোঝা যায় খাঁটি। বাজারের গুঁড়ার সাথে তুলনাই হয় না।"
+    },
+    {
+      "id": "rev-06",
+      "customerName": "নুসরাত জাহান",
+      "location": "সোনাডাঙ্গা, খুলনা",
+      "rating": 5,
+      "commentBn": "ক্যাশ অন ডেলিভারিতে অর্ডার করেছিলাম, ফোনে কনফার্ম করে পরদিনই পেয়েছি। সেবা খুব সুন্দর ছিল।"
+    },
+    {
+      "id": "rev-07",
+      "customerName": "আব্দুল করিম",
+      "location": "শেরপুর, বগুড়া",
+      "rating": 4,
+      "commentBn": "মরিচ গুঁড়ার ঝাল আর তেলটা একদম খাঁটি। দামও বাজারের চেয়ে যুক্তিসঙ্গত মনে হয়েছে।"
+    },
+    {
+      "id": "rev-08",
+      "customerName": "সাদিয়া ইসলাম",
+      "location": "মিরপুর, ঢাকা",
+      "rating": 5,
+      "commentBn": "চিনিগুঁড়া চাল দিয়ে পায়েসটা পরিবারের সবাই খুব প্রশংসা করেছে। ধন্যবাদ সোনালী ফসল।"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "rev-001",
+    "productId": "prd-001",
+    "productNameBn": "মিনিকেট চাল",
+    "author": "রফিকুল ইসলাম",
+    "rating": 5,
+    "text": "চাল খুব ভালো, ঝরঝরে হয়েছে। আবার অর্ডার করব।",
+    "status": "approved",
+    "createdAt": "2026-11-13T07:00:00.000Z"
+  },
+  {
+    "id": "rev-002",
+    "productId": "prd-008",
+    "productNameBn": "সরিষার তেল",
+    "author": "সুমাইয়া আক্তার",
+    "rating": 5,
+    "text": "সরিষার তেলের ঝাঁঝ একদম খাঁটি। পরিবারের সবাই পছন্দ করেছে।",
+    "status": "approved",
+    "createdAt": "2026-11-10T07:11:00.000Z"
+  },
+  {
+    "id": "rev-003",
+    "productId": "prd-017",
+    "productNameBn": "খাঁটি গাওয়া ঘি",
+    "author": "মাহবুব হাসান",
+    "rating": 4,
+    "text": "ঘিয়ের সুগন্ধ চমৎকার, তবে দাম একটু বেশি।",
+    "status": "approved",
+    "createdAt": "2026-11-06T07:22:00.000Z"
+  },
+  {
+    "id": "rev-004",
+    "productId": "prd-014",
+    "productNameBn": "সুন্দরবনের মধু",
+    "author": "নাসরিন সুলতানা",
+    "rating": 5,
+    "text": "মধু একদম প্রাকৃতিক, চিনির মিষ্টি নেই।",
+    "status": "approved",
+    "createdAt": "2026-10-30T07:33:00.000Z"
+  },
+  {
+    "id": "rev-005",
+    "productId": "prd-002",
+    "productNameBn": "বাসমতী চাল",
+    "author": "ফারহানা ইয়াসমিন",
+    "rating": 4,
+    "text": "বাসমতী চালের সুগন্ধ ভালো লেগেছে।",
+    "status": "pending",
+    "createdAt": "2026-11-18T07:44:00.000Z"
+  },
+  {
+    "id": "rev-006",
+    "productId": "prd-013",
+    "productNameBn": "ঘানি ভাঙা সরিষার তেল",
+    "author": "শাহীন আলম",
+    "rating": 5,
+    "text": "ঘানি ভাঙা তেল পাওয়া কঠিন, এখানে পেয়ে ভালো লাগলো।",
+    "status": "pending",
+    "createdAt": "2026-11-17T07:55:00.000Z"
+  },
+  {
+    "id": "rev-007",
+    "productId": "prd-016",
+    "productNameBn": "লিচু ফুলের মধু",
+    "author": "তাসনিম জাহান",
+    "rating": 4,
+    "text": "লিচু ফুলের মধু হালকা ও মিষ্টি।",
+    "status": "pending",
+    "createdAt": "2026-11-16T07:06:00.000Z"
+  },
+  {
+    "id": "rev-008",
+    "productId": "prd-018",
+    "productNameBn": "বাফেলো ঘি",
+    "author": "জাহিদুল ইসলাম",
+    "rating": 5,
+    "text": "বাফেলো ঘি ঘন ও সুস্বাদু।",
+    "status": "pending",
+    "createdAt": "2026-11-15T07:17:00.000Z"
+  },
+  {
+    "id": "rev-009",
+    "productId": "prd-010",
+    "productNameBn": "অলিভ অয়েল",
+    "author": "রুবিনা পারভীন",
+    "rating": 3,
+    "text": "অলিভ অয়েল ঠিক আছে, প্যাকেজিং আরও ভালো হতে পারত।",
+    "status": "hidden",
+    "createdAt": "2026-11-08T07:28:00.000Z"
+  },
+  {
+    "id": "rev-010",
+    "productId": "prd-011",
+    "productNameBn": "সয়াবিন তেল",
+    "author": "অজ্ঞাত গ্রাহক",
+    "rating": 1,
+    "text": "অপ্রাসঙ্গিক মন্তব্য।",
+    "status": "hidden",
+    "createdAt": "2026-11-04T07:39:00.000Z"
+  }
+]

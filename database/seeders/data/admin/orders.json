@@ -1,0 +1,1115 @@
+[
+  {
+    "id": "ord-0101",
+    "orderNumber": "SFO-2026-8492",
+    "createdAt": "2026-11-19T04:00:00.000Z",
+    "expectedDeliveryDate": "2026-11-21T06:30:00.000Z",
+    "status": "pending",
+    "customer": {
+      "name": "রফিকুল ইসলাম",
+      "phone": "01711234567",
+      "district": "ঢাকা",
+      "address": "বাসা ১২, রোড ৫, ধানমন্ডি, ঢাকা",
+      "note": "দুপুরের পরে কল করবেন, সকালে ব্যস্ত থাকি।"
+    },
+    "deliveryZone": "inside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-001",
+        "slug": "miniket-rice",
+        "title": "মিনিকেট চাল",
+        "image": "/images/products/miniket-rice.svg",
+        "weightLabel": "১০ কেজি",
+        "unitPrice": 850,
+        "qty": 1
+      },
+      {
+        "productId": "prd-008",
+        "slug": "mustard-oil",
+        "title": "সরিষার তেল",
+        "image": "/images/products/mustard-oil.svg",
+        "weightLabel": "১ লিটার",
+        "unitPrice": 350,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1550,
+    "deliveryFee": 60,
+    "discount": 78,
+    "total": 1532,
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-19T04:00:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      }
+    ]
+  },
+  {
+    "id": "ord-0102",
+    "orderNumber": "SFO-2026-8491",
+    "createdAt": "2026-11-19T05:07:00.000Z",
+    "expectedDeliveryDate": "2026-11-22T06:30:00.000Z",
+    "status": "pending",
+    "customer": {
+      "name": "সুমাইয়া আক্তার",
+      "phone": "01822334455",
+      "district": "চট্টগ্রাম",
+      "address": "৪৫/বি, আগ্রাবাদ, চট্টগ্রাম"
+    },
+    "deliveryZone": "outside_dhaka",
+    "paymentMethod": "whatsapp",
+    "items": [
+      {
+        "productId": "prd-014",
+        "slug": "sundarban-honey",
+        "title": "সুন্দরবনের মধু",
+        "image": "/images/products/sundarban-honey.svg",
+        "weightLabel": "৫০০ গ্রাম",
+        "unitPrice": 420,
+        "qty": 2
+      },
+      {
+        "productId": "prd-017",
+        "slug": "pure-ghee",
+        "title": "খাঁটি গাওয়া ঘি",
+        "image": "/images/products/pure-ghee.svg",
+        "weightLabel": "৫০০ গ্রাম",
+        "unitPrice": 740,
+        "qty": 1
+      }
+    ],
+    "subtotal": 1580,
+    "deliveryFee": 120,
+    "discount": 79,
+    "total": 1621,
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-19T05:07:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      }
+    ]
+  },
+  {
+    "id": "ord-0103",
+    "orderNumber": "SFO-2026-8490",
+    "createdAt": "2026-11-18T06:14:00.000Z",
+    "expectedDeliveryDate": "2026-11-23T06:30:00.000Z",
+    "status": "pending",
+    "customer": {
+      "name": "মাহবুব হাসান",
+      "phone": "01933445566",
+      "district": "খুলনা",
+      "address": "বাসা ৭, সড়ক ২, সোনাডাঙ্গা, খুলনা"
+    },
+    "deliveryZone": "outside_dhaka",
+    "paymentMethod": "messenger",
+    "items": [
+      {
+        "productId": "prd-002",
+        "slug": "basmati-rice",
+        "title": "বাসমতী চাল",
+        "image": "/images/products/basmati-rice.svg",
+        "weightLabel": "৫ কেজি",
+        "unitPrice": 710,
+        "qty": 1
+      }
+    ],
+    "subtotal": 710,
+    "deliveryFee": 120,
+    "discount": 0,
+    "total": 830,
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-18T06:14:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      }
+    ]
+  },
+  {
+    "id": "ord-0104",
+    "orderNumber": "SFO-2026-8489",
+    "createdAt": "2026-11-18T07:21:00.000Z",
+    "expectedDeliveryDate": "2026-11-21T06:30:00.000Z",
+    "status": "pending",
+    "customer": {
+      "name": "নাসরিন সুলতানা",
+      "phone": "01644556677",
+      "district": "রাজশাহী",
+      "address": "৩৩, শাহ মখদুম, রাজশাহী"
+    },
+    "deliveryZone": "inside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-013",
+        "slug": "ghani-mustard-oil",
+        "title": "ঘানি ভাঙা সরিষার তেল",
+        "image": "/images/products/ghani-mustard-oil.svg",
+        "weightLabel": "২ লিটার",
+        "unitPrice": 740,
+        "qty": 1
+      },
+      {
+        "productId": "prd-003",
+        "slug": "polao-rice",
+        "title": "পোলাও চাল",
+        "image": "/images/products/polao-rice.svg",
+        "weightLabel": "৫ কেজি",
+        "unitPrice": 590,
+        "qty": 1
+      }
+    ],
+    "subtotal": 1330,
+    "deliveryFee": 60,
+    "discount": 0,
+    "total": 1390,
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-18T07:21:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      }
+    ]
+  },
+  {
+    "id": "ord-0105",
+    "orderNumber": "SFO-2026-8488",
+    "createdAt": "2026-11-17T08:28:00.000Z",
+    "expectedDeliveryDate": "2026-11-22T06:30:00.000Z",
+    "status": "pending",
+    "customer": {
+      "name": "আব্দুল করিম",
+      "phone": "01555667788",
+      "district": "সিলেট",
+      "address": "১২, জিন্দাবাজার, সিলেট",
+      "note": "দুপুরের পরে কল করবেন, সকালে ব্যস্ত থাকি।"
+    },
+    "deliveryZone": "outside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-019",
+        "slug": "cow-ghee",
+        "title": "গরুর ঘি",
+        "image": "/images/products/cow-ghee.svg",
+        "weightLabel": "২৫০ গ্রাম",
+        "unitPrice": 420,
+        "qty": 2
+      }
+    ],
+    "subtotal": 840,
+    "deliveryFee": 120,
+    "discount": 0,
+    "total": 960,
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-17T08:28:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      }
+    ]
+  },
+  {
+    "id": "ord-0106",
+    "orderNumber": "SFO-2026-8487",
+    "createdAt": "2026-11-17T09:35:00.000Z",
+    "expectedDeliveryDate": "2026-11-23T06:30:00.000Z",
+    "status": "confirmed",
+    "customer": {
+      "name": "ফারহানা ইয়াসমিন",
+      "phone": "01766778899",
+      "district": "বরিশাল",
+      "address": "বাসা ৯, বান্দ রোড, বরিশাল"
+    },
+    "deliveryZone": "inside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-001",
+        "slug": "miniket-rice",
+        "title": "মিনিকেট চাল",
+        "image": "/images/products/miniket-rice.svg",
+        "weightLabel": "৫ কেজি",
+        "unitPrice": 430,
+        "qty": 1
+      },
+      {
+        "productId": "prd-011",
+        "slug": "soybean-oil",
+        "title": "সয়াবিন তেল",
+        "image": "/images/products/soybean-oil.svg",
+        "weightLabel": "৫ লিটার",
+        "unitPrice": 810,
+        "qty": 1
+      }
+    ],
+    "subtotal": 1240,
+    "deliveryFee": 60,
+    "discount": 0,
+    "total": 1300,
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-17T09:35:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-11-17T12:35:00.000Z",
+        "by": "Sonali Owner"
+      }
+    ]
+  },
+  {
+    "id": "ord-0107",
+    "orderNumber": "SFO-2026-8486",
+    "createdAt": "2026-11-16T10:42:00.000Z",
+    "expectedDeliveryDate": "2026-11-21T06:30:00.000Z",
+    "status": "confirmed",
+    "customer": {
+      "name": "শাহীন আলম",
+      "phone": "01877889900",
+      "district": "রংপুর",
+      "address": "২১, ধাপ, রংপুর"
+    },
+    "deliveryZone": "outside_dhaka",
+    "paymentMethod": "whatsapp",
+    "items": [
+      {
+        "productId": "prd-015",
+        "slug": "black-seed-honey",
+        "title": "কালোজিরার মধু",
+        "image": "/images/products/black-seed-honey.svg",
+        "weightLabel": "৫০০ গ্রাম",
+        "unitPrice": 480,
+        "qty": 1
+      },
+      {
+        "productId": "prd-016",
+        "slug": "lychee-honey",
+        "title": "লিচু ফুলের মধু",
+        "image": "/images/products/lychee-honey.svg",
+        "weightLabel": "১ কেজি",
+        "unitPrice": 720,
+        "qty": 1
+      }
+    ],
+    "subtotal": 1200,
+    "deliveryFee": 120,
+    "discount": 0,
+    "total": 1320,
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-16T10:42:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-11-16T13:42:00.000Z",
+        "by": "Sonali Owner"
+      }
+    ]
+  },
+  {
+    "id": "ord-0108",
+    "orderNumber": "SFO-2026-8485",
+    "createdAt": "2026-11-16T11:49:00.000Z",
+    "expectedDeliveryDate": "2026-11-22T06:30:00.000Z",
+    "status": "confirmed",
+    "customer": {
+      "name": "তাসনিম জাহান",
+      "phone": "01988990011",
+      "district": "ময়মনসিংহ",
+      "address": "৫, চরপাড়া, ময়মনসিংহ"
+    },
+    "deliveryZone": "inside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-004",
+        "slug": "kataribhog-rice",
+        "title": "কাটারিভোগ চাল",
+        "image": "/images/products/kataribhog-rice.svg",
+        "weightLabel": "৫ কেজি",
+        "unitPrice": 660,
+        "qty": 1
+      },
+      {
+        "productId": "prd-009",
+        "slug": "coconut-oil",
+        "title": "নারিকেল তেল",
+        "image": "/images/products/coconut-oil.svg",
+        "weightLabel": "১ লিটার",
+        "unitPrice": 420,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1500,
+    "deliveryFee": 60,
+    "discount": 75,
+    "total": 1485,
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-16T11:49:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-11-16T14:49:00.000Z",
+        "by": "Sonali Owner"
+      }
+    ]
+  },
+  {
+    "id": "ord-0109",
+    "orderNumber": "SFO-2026-8484",
+    "createdAt": "2026-11-15T04:56:00.000Z",
+    "expectedDeliveryDate": "2026-11-23T06:30:00.000Z",
+    "status": "processing",
+    "customer": {
+      "name": "জাহিদুল ইসলাম",
+      "phone": "01699001122",
+      "district": "কুমিল্লা",
+      "address": "৭৮, কান্দিরপাড়, কুমিল্লা",
+      "note": "দুপুরের পরে কল করবেন, সকালে ব্যস্ত থাকি।"
+    },
+    "deliveryZone": "outside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-005",
+        "slug": "brown-rice",
+        "title": "ব্রাউন রাইস",
+        "image": "/images/products/brown-rice.svg",
+        "weightLabel": "৫ কেজি",
+        "unitPrice": 540,
+        "qty": 1
+      },
+      {
+        "productId": "prd-008",
+        "slug": "mustard-oil",
+        "title": "সরিষার তেল",
+        "image": "/images/products/mustard-oil.svg",
+        "weightLabel": "৫০০ গ্রাম",
+        "unitPrice": 180,
+        "qty": 2
+      }
+    ],
+    "subtotal": 900,
+    "deliveryFee": 120,
+    "discount": 0,
+    "total": 1020,
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-15T04:56:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-11-15T07:56:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "processing",
+        "at": "2026-11-15T10:56:00.000Z",
+        "by": "Sonali Owner"
+      }
+    ]
+  },
+  {
+    "id": "ord-0110",
+    "orderNumber": "SFO-2026-8483",
+    "createdAt": "2026-11-14T05:03:00.000Z",
+    "expectedDeliveryDate": "2026-11-21T06:30:00.000Z",
+    "status": "processing",
+    "customer": {
+      "name": "রুবিনা পারভীন",
+      "phone": "01500112233",
+      "district": "নারায়ণগঞ্জ",
+      "address": "বাসা ১৪, চাষাঢ়া, নারায়ণগঞ্জ"
+    },
+    "deliveryZone": "inside_dhaka",
+    "paymentMethod": "messenger",
+    "items": [
+      {
+        "productId": "prd-017",
+        "slug": "pure-ghee",
+        "title": "খাঁটি গাওয়া ঘি",
+        "image": "/images/products/pure-ghee.svg",
+        "weightLabel": "১ কেজি",
+        "unitPrice": 1450,
+        "qty": 1
+      }
+    ],
+    "subtotal": 1450,
+    "deliveryFee": 60,
+    "discount": 0,
+    "total": 1510,
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-14T05:03:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-11-14T08:03:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "processing",
+        "at": "2026-11-14T11:03:00.000Z",
+        "by": "Sonali Owner"
+      }
+    ]
+  },
+  {
+    "id": "ord-0111",
+    "orderNumber": "SFO-2026-8482",
+    "createdAt": "2026-11-13T06:10:00.000Z",
+    "expectedDeliveryDate": "2026-11-22T06:30:00.000Z",
+    "status": "shipped",
+    "customer": {
+      "name": "রফিকুল ইসলাম",
+      "phone": "01711234567",
+      "district": "ঢাকা",
+      "address": "বাসা ১২, রোড ৫, ধানমন্ডি, ঢাকা"
+    },
+    "deliveryZone": "inside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-006",
+        "slug": "chinigura-rice",
+        "title": "চিনিগুড়া চাল",
+        "image": "/images/products/chinigura-rice.svg",
+        "weightLabel": "১ কেজি",
+        "unitPrice": 130,
+        "qty": 3
+      },
+      {
+        "productId": "prd-014",
+        "slug": "sundarban-honey",
+        "title": "সুন্দরবনের মধু",
+        "image": "/images/products/sundarban-honey.svg",
+        "weightLabel": "১ কেজি",
+        "unitPrice": 800,
+        "qty": 1
+      }
+    ],
+    "subtotal": 1190,
+    "deliveryFee": 60,
+    "discount": 0,
+    "total": 1250,
+    "courier": {
+      "name": "Pathao",
+      "trackingId": "TRK901370"
+    },
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-13T06:10:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-11-13T09:10:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "processing",
+        "at": "2026-11-13T12:10:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-11-13T15:10:00.000Z",
+        "by": "Sonali Owner",
+        "note": "Handed over to courier"
+      }
+    ]
+  },
+  {
+    "id": "ord-0112",
+    "orderNumber": "SFO-2026-8481",
+    "createdAt": "2026-11-12T07:17:00.000Z",
+    "expectedDeliveryDate": "2026-11-23T06:30:00.000Z",
+    "status": "shipped",
+    "customer": {
+      "name": "মাহবুব হাসান",
+      "phone": "01933445566",
+      "district": "খুলনা",
+      "address": "বাসা ৭, সড়ক ২, সোনাডাঙ্গা, খুলনা"
+    },
+    "deliveryZone": "outside_dhaka",
+    "paymentMethod": "whatsapp",
+    "items": [
+      {
+        "productId": "prd-010",
+        "slug": "olive-oil",
+        "title": "অলিভ অয়েল",
+        "image": "/images/products/olive-oil.svg",
+        "weightLabel": "১ লিটার",
+        "unitPrice": 1250,
+        "qty": 1
+      },
+      {
+        "productId": "prd-002",
+        "slug": "basmati-rice",
+        "title": "বাসমতী চাল",
+        "image": "/images/products/basmati-rice.svg",
+        "weightLabel": "১ কেজি",
+        "unitPrice": 145,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1540,
+    "deliveryFee": 120,
+    "discount": 77,
+    "total": 1583,
+    "courier": {
+      "name": "Steadfast",
+      "trackingId": "TRK901507"
+    },
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-12T07:17:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-11-12T10:17:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "processing",
+        "at": "2026-11-12T13:17:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-11-12T16:17:00.000Z",
+        "by": "Sonali Owner",
+        "note": "Handed over to courier"
+      }
+    ]
+  },
+  {
+    "id": "ord-0113",
+    "orderNumber": "SFO-2026-8480",
+    "createdAt": "2026-11-09T08:24:00.000Z",
+    "status": "delivered",
+    "customer": {
+      "name": "সুমাইয়া আক্তার",
+      "phone": "01822334455",
+      "district": "চট্টগ্রাম",
+      "address": "৪৫/বি, আগ্রাবাদ, চট্টগ্রাম",
+      "note": "দুপুরের পরে কল করবেন, সকালে ব্যস্ত থাকি।"
+    },
+    "deliveryZone": "outside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-001",
+        "slug": "miniket-rice",
+        "title": "মিনিকেট চাল",
+        "image": "/images/products/miniket-rice.svg",
+        "weightLabel": "১০ কেজি",
+        "unitPrice": 850,
+        "qty": 1
+      },
+      {
+        "productId": "prd-017",
+        "slug": "pure-ghee",
+        "title": "খাঁটি গাওয়া ঘি",
+        "image": "/images/products/pure-ghee.svg",
+        "weightLabel": "২৫০ গ্রাম",
+        "unitPrice": 380,
+        "qty": 1
+      }
+    ],
+    "subtotal": 1230,
+    "deliveryFee": 120,
+    "discount": 0,
+    "total": 1350,
+    "courier": {
+      "name": "Pathao",
+      "trackingId": "TRK901644"
+    },
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-09T08:24:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-11-09T11:24:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "processing",
+        "at": "2026-11-09T14:24:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-11-09T17:24:00.000Z",
+        "by": "Sonali Owner",
+        "note": "Handed over to courier"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-11-09T20:24:00.000Z",
+        "by": "Sonali Owner"
+      }
+    ]
+  },
+  {
+    "id": "ord-0114",
+    "orderNumber": "SFO-2026-8479",
+    "createdAt": "2026-11-05T09:31:00.000Z",
+    "status": "delivered",
+    "customer": {
+      "name": "নাসরিন সুলতানা",
+      "phone": "01644556677",
+      "district": "রাজশাহী",
+      "address": "৩৩, শাহ মখদুম, রাজশাহী"
+    },
+    "deliveryZone": "inside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-008",
+        "slug": "mustard-oil",
+        "title": "সরিষার তেল",
+        "image": "/images/products/mustard-oil.svg",
+        "weightLabel": "২ লিটার",
+        "unitPrice": 680,
+        "qty": 1
+      },
+      {
+        "productId": "prd-003",
+        "slug": "polao-rice",
+        "title": "পোলাও চাল",
+        "image": "/images/products/polao-rice.svg",
+        "weightLabel": "৫ কেজি",
+        "unitPrice": 590,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1860,
+    "deliveryFee": 60,
+    "discount": 93,
+    "total": 1827,
+    "courier": {
+      "name": "Steadfast",
+      "trackingId": "TRK901781"
+    },
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-05T09:31:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-11-05T12:31:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "processing",
+        "at": "2026-11-05T15:31:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-11-05T18:31:00.000Z",
+        "by": "Sonali Owner",
+        "note": "Handed over to courier"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-11-05T21:31:00.000Z",
+        "by": "Sonali Owner"
+      }
+    ]
+  },
+  {
+    "id": "ord-0115",
+    "orderNumber": "SFO-2026-8478",
+    "createdAt": "2026-11-01T10:38:00.000Z",
+    "status": "delivered",
+    "customer": {
+      "name": "ফারহানা ইয়াসমিন",
+      "phone": "01766778899",
+      "district": "বরিশাল",
+      "address": "বাসা ৯, বান্দ রোড, বরিশাল"
+    },
+    "deliveryZone": "inside_dhaka",
+    "paymentMethod": "messenger",
+    "items": [
+      {
+        "productId": "prd-016",
+        "slug": "lychee-honey",
+        "title": "লিচু ফুলের মধু",
+        "image": "/images/products/lychee-honey.svg",
+        "weightLabel": "৫০০ গ্রাম",
+        "unitPrice": 380,
+        "qty": 2
+      },
+      {
+        "productId": "prd-013",
+        "slug": "ghani-mustard-oil",
+        "title": "ঘানি ভাঙা সরিষার তেল",
+        "image": "/images/products/ghani-mustard-oil.svg",
+        "weightLabel": "১ লিটার",
+        "unitPrice": 380,
+        "qty": 1
+      }
+    ],
+    "subtotal": 1140,
+    "deliveryFee": 60,
+    "discount": 0,
+    "total": 1200,
+    "courier": {
+      "name": "Pathao",
+      "trackingId": "TRK901918"
+    },
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-01T10:38:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-11-01T13:38:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "processing",
+        "at": "2026-11-01T16:38:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-11-01T19:38:00.000Z",
+        "by": "Sonali Owner",
+        "note": "Handed over to courier"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-11-01T22:38:00.000Z",
+        "by": "Sonali Owner"
+      }
+    ]
+  },
+  {
+    "id": "ord-0116",
+    "orderNumber": "SFO-2026-8477",
+    "createdAt": "2026-10-26T11:45:00.000Z",
+    "status": "delivered",
+    "customer": {
+      "name": "তাসনিম জাহান",
+      "phone": "01988990011",
+      "district": "ময়মনসিংহ",
+      "address": "৫, চরপাড়া, ময়মনসিংহ"
+    },
+    "deliveryZone": "outside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-018",
+        "slug": "buffalo-ghee",
+        "title": "বাফেলো ঘি",
+        "image": "/images/products/buffalo-ghee.svg",
+        "weightLabel": "৫০০ গ্রাম",
+        "unitPrice": 820,
+        "qty": 1
+      },
+      {
+        "productId": "prd-007",
+        "slug": "kalijira-rice",
+        "title": "কালিজিরা চাল",
+        "image": "/images/products/kalijira-rice.svg",
+        "weightLabel": "১ কেজি",
+        "unitPrice": 150,
+        "qty": 2
+      }
+    ],
+    "subtotal": 1120,
+    "deliveryFee": 120,
+    "discount": 0,
+    "total": 1240,
+    "courier": {
+      "name": "Steadfast",
+      "trackingId": "TRK902055"
+    },
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-10-26T11:45:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-10-26T14:45:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "processing",
+        "at": "2026-10-26T17:45:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-10-26T20:45:00.000Z",
+        "by": "Sonali Owner",
+        "note": "Handed over to courier"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-10-26T23:45:00.000Z",
+        "by": "Sonali Owner"
+      }
+    ]
+  },
+  {
+    "id": "ord-0117",
+    "orderNumber": "SFO-2026-8476",
+    "createdAt": "2026-10-20T04:52:00.000Z",
+    "status": "delivered",
+    "customer": {
+      "name": "রুবিনা পারভীন",
+      "phone": "01500112233",
+      "district": "নারায়ণগঞ্জ",
+      "address": "বাসা ১৪, চাষাঢ়া, নারায়ণগঞ্জ",
+      "note": "দুপুরের পরে কল করবেন, সকালে ব্যস্ত থাকি।"
+    },
+    "deliveryZone": "inside_dhaka",
+    "paymentMethod": "whatsapp",
+    "items": [
+      {
+        "productId": "prd-011",
+        "slug": "soybean-oil",
+        "title": "সয়াবিন তেল",
+        "image": "/images/products/soybean-oil.svg",
+        "weightLabel": "১ লিটার",
+        "unitPrice": 165,
+        "qty": 4
+      },
+      {
+        "productId": "prd-009",
+        "slug": "coconut-oil",
+        "title": "নারিকেল তেল",
+        "image": "/images/products/coconut-oil.svg",
+        "weightLabel": "৫০০ গ্রাম",
+        "unitPrice": 220,
+        "qty": 1
+      }
+    ],
+    "subtotal": 880,
+    "deliveryFee": 60,
+    "discount": 0,
+    "total": 940,
+    "courier": {
+      "name": "Pathao",
+      "trackingId": "TRK902192"
+    },
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-10-20T04:52:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "at": "2026-10-20T07:52:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "processing",
+        "at": "2026-10-20T10:52:00.000Z",
+        "by": "Sonali Owner"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-10-20T13:52:00.000Z",
+        "by": "Sonali Owner",
+        "note": "Handed over to courier"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-10-20T16:52:00.000Z",
+        "by": "Sonali Owner"
+      }
+    ]
+  },
+  {
+    "id": "ord-0118",
+    "orderNumber": "SFO-2026-8475",
+    "createdAt": "2026-11-11T05:59:00.000Z",
+    "status": "rejected",
+    "customer": {
+      "name": "আব্দুল করিম",
+      "phone": "01555667788",
+      "district": "সিলেট",
+      "address": "১২, জিন্দাবাজার, সিলেট"
+    },
+    "deliveryZone": "outside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-019",
+        "slug": "cow-ghee",
+        "title": "গরুর ঘি",
+        "image": "/images/products/cow-ghee.svg",
+        "weightLabel": "৫০০ গ্রাম",
+        "unitPrice": 820,
+        "qty": 1
+      }
+    ],
+    "subtotal": 820,
+    "deliveryFee": 120,
+    "discount": 0,
+    "total": 940,
+    "rejection": {
+      "reason": "fake_order",
+      "feedback": "একই নম্বর থেকে বারবার অর্ডার বাতিল করা হচ্ছে।",
+      "by": "Sonali Owner",
+      "at": "2026-11-11T06:34:00.000Z"
+    },
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-11T05:59:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "rejected",
+        "at": "2026-11-11T06:34:00.000Z",
+        "by": "Sonali Owner",
+        "note": "fake_order"
+      }
+    ]
+  },
+  {
+    "id": "ord-0119",
+    "orderNumber": "SFO-2026-8474",
+    "createdAt": "2026-11-03T06:06:00.000Z",
+    "status": "rejected",
+    "customer": {
+      "name": "জাহিদুল ইসলাম",
+      "phone": "01699001122",
+      "district": "কুমিল্লা",
+      "address": "৭৮, কান্দিরপাড়, কুমিল্লা"
+    },
+    "deliveryZone": "outside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-015",
+        "slug": "black-seed-honey",
+        "title": "কালোজিরার মধু",
+        "image": "/images/products/black-seed-honey.svg",
+        "weightLabel": "১ কেজি",
+        "unitPrice": 920,
+        "qty": 1
+      }
+    ],
+    "subtotal": 920,
+    "deliveryFee": 120,
+    "discount": 0,
+    "total": 1040,
+    "rejection": {
+      "reason": "outside_area",
+      "feedback": "গ্রাহকের এলাকায় আমাদের কুরিয়ার পৌঁছায় না।",
+      "by": "Sonali Owner",
+      "at": "2026-11-03T06:41:00.000Z"
+    },
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-11-03T06:06:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "rejected",
+        "at": "2026-11-03T06:41:00.000Z",
+        "by": "Sonali Owner",
+        "note": "outside_area"
+      }
+    ]
+  },
+  {
+    "id": "ord-0120",
+    "orderNumber": "SFO-2026-8473",
+    "createdAt": "2026-10-29T07:13:00.000Z",
+    "status": "cancelled",
+    "customer": {
+      "name": "শাহীন আলম",
+      "phone": "01877889900",
+      "district": "রংপুর",
+      "address": "২১, ধাপ, রংপুর"
+    },
+    "deliveryZone": "inside_dhaka",
+    "paymentMethod": "cod",
+    "items": [
+      {
+        "productId": "prd-017",
+        "slug": "pure-ghee",
+        "title": "খাঁটি গাওয়া ঘি",
+        "image": "/images/products/pure-ghee.svg",
+        "weightLabel": "৫০০ গ্রাম",
+        "unitPrice": 740,
+        "qty": 1
+      }
+    ],
+    "subtotal": 740,
+    "deliveryFee": 60,
+    "discount": 0,
+    "total": 800,
+    "statusHistory": [
+      {
+        "status": "pending",
+        "at": "2026-10-29T07:13:00.000Z",
+        "by": "System",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "cancelled",
+        "at": "2026-10-29T08:03:00.000Z",
+        "by": "System",
+        "note": "গ্রাহক নিজেই অর্ডার বাতিল করেছেন।"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cat-01",
+    "slug": "rice",
+    "nameEn": "Rice",
+    "nameBn": "চাল",
+    "order": 1,
+    "hidden": false
+  },
+  {
+    "id": "cat-02",
+    "slug": "oil",
+    "nameEn": "Oil",
+    "nameBn": "তেল",
+    "order": 2,
+    "hidden": false
+  },
+  {
+    "id": "cat-03",
+    "slug": "honey-ghee",
+    "nameEn": "Honey & Ghee",
+    "nameBn": "মধু ও ঘি",
+    "order": 3,
+    "hidden": false
+  }
+]

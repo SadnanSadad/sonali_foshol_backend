@@ -1,0 +1,9 @@
+{
+  "id": "adm-01",
+  "name": "Sonali Owner",
+  "email": "admin@sonalifoshol.com",
+  "username": "admin",
+  "password": "sonali123",
+  "role": "owner",
+  "avatar": "/images/avatar-admin.svg"
+}
